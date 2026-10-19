@@ -16,3 +16,6 @@ dist/
 .idea/
 .DS_Store
 Thumbs.db
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
